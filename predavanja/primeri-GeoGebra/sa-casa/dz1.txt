@@ -19,15 +19,8 @@ vec nije instaliran na fakultetskom racunaru. Za rad kod kuce, instalirati bilo 
 	- izracunati aproksimaciju vrednosti integrala koriscenjem ove dve sume
 	- omoguciti da se broj koraka postavlja pomocu klizaca, i posmatrati kako se menja aproksimirana vrednost
 	- naci pravu (analiticku) vrednost integrala na datom intervalu
-VEZBA
 7. Konstruisati jednakokraki trougao ako je ugao na osnovici ima 75 stepeni, a krak je duzine 7.
 8. Konstruisati pravougli troguao kome je duzina hipotenuze 7, a jedan ugao ima 75 stepeni.
 9. Konstruisati kvadrat cija je povrsina jednaka zbiru povrsine kvadrata cije su osnovice 5 i 12.
 10. Iz tacke P van kruznice k(O, 5) konstruisati tangente na kruzinicu koje je dodiruju u tackama A i B. Rastojeanje tacke P od tacko O iznosi 13.
 
-Domaci
-11. Izvrsiti izvoz svih zadataka na geogebra tube i kreirati geogebra knjigu. Naslov knjige treba da bude "Vase ime i prezime - 1. domaci zadatak". Knjigu moze da vidi drugi korisnik samo ako ima odgovarajuci link. Kreirati 2 poglavlja "zadaci sa casa" i "vezba". U prvo poglavlje potrebno je dodati zadatke 1-6, u drugo zadatke od 7-10.
-
-Na vasem sajtu kreirati html dokument: alas.matf.bg.ac.rs/ab12345/os.html, sa naslovom (h1) "Obrazovni softver - Vase ime i prezime i broj indeksa", ispod koga se nalazi link sa tekstom "prvi domaci zadatak", koji vodi na kreiranu geogebra knjigu.
-
-Zadatake student treba da resi do 31.10, okaci na alas, i da odbrani na nekom od narednih časova vežbi.
